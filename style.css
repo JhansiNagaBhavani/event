@@ -1,0 +1,53 @@
+html,body{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+input{
+    border-color:mistyrose;
+    border-radius: 25%;
+    background-color:rgba(12, 182, 239, 0.39);
+    margin: 10px;
+    padding: 10px;
+
+}
+input:hover{
+    cursor: pointer;
+    background-color:cornsilk;
+}
+select{
+    border-color: mistyrose;
+    border-radius: 25%;
+    background-color: rgba(12, 182, 239, 0.39);
+    margin: 10px;
+    padding: 10px;
+
+}
+select:hover{
+    cursor: pointer;
+    background-color:rgba(219, 178, 14, 0.034);
+}
+button{
+    border-color: mistyrose;
+    border-radius: 25%;
+    background-color: rgba(12, 182, 239, 0.39);
+    margin: 10px;
+    padding: 10px;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color:cornsilk;
+}
+h1{
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0cqh;
+    color: rgb(6, 30, 103);
+}
+h3{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0cqh;
+    color: rgb(7, 40, 140);
+}
